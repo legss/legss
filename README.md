@@ -1,16 +1,14 @@
-### Hi there 👋
+## Opa! eu sou o Luiz Eduardo, seja bem vindo! 😁
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=legss&show_icons=true&theme=tokyonight">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=legss&theme=tokyonight">
+</div>
 
-<!--
-**legss/legss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<ul>
+  <li> 🔭 Estudante de Desenvolvimento Front-end </li> 
+  <li> 🌱 Estudando HTML/CSS e JavaScript </li>
+</ul>
 
-Here are some ideas to get you started:
+## Treinamento diario
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Com o objetivo de aprimorar minhas habilidades e conseguir me tornar um desenvolvedor web, estou realizando mini-projetos diarios. Caso quiser dar uma olhada, só ir nos meus [repositorios](https://github.com/legss?tab=repositories).

@@ -9,6 +9,6 @@
   <li> 🌱 Estudando HTML/CSS e JavaScript </li>
 </ul>
 
-## Treinamento diario
+## Treinamento
 
-Com o objetivo de aprimorar minhas habilidades e conseguir me tornar um desenvolvedor web, estou realizando mini-projetos diarios. Caso quiser dar uma olhada, só ir nos meus [repositorios](https://github.com/legss?tab=repositories).
+Com o objetivo de aprimorar minhas habilidades e conseguir me tornar um desenvolvedor web, semanalmente, estou realizando mini-projetos. Caso quiser dar uma olhada, só ir nos meus [repositorios](https://github.com/legss?tab=repositories).
